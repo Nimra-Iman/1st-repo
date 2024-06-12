@@ -1,5 +1,5 @@
 # 1st-repo
-Thuis is my first repo, delete it, just prac
+Thuis is my first repo
 <br>
 this is my second line
 
